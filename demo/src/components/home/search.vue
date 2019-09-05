@@ -38,7 +38,8 @@ export default {
   padding: 0 0.2rem;
   height: 1.1rem;
   line-height: 1.1rem;
-  border: 1px solid red;
+  background: #fff;
+  border:1px solid #ccc
 }
 .search-logo img {
   display: block;

@@ -32,11 +32,4 @@ export default {
 </script>
 
 <style  scoped>
-.shopping-nav {
-  background: #f2f2f2 !important
-}
-
-[class*=van-hairline]::after {
-  border:none !important
-}
 </style>
